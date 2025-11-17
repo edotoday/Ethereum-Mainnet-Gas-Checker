@@ -18,7 +18,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/hudsoonme/ethereum-gas-checker.git
+git clone https://github.com/edotoday/ethereum-gas-checker.git
 cd ethereum-gas-checker
 ```
 
