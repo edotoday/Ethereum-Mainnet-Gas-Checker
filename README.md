@@ -18,8 +18,8 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/edotoday/ethereum-gas-checker.git
-cd ethereum-gas-checker
+git clone https://github.com/edotoday/Ethereum-Mainnet-Gas-Checker.git
+cd Ethereum-Mainnet-Gas-Checker
 ```
 
 ---
