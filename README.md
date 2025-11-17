@@ -108,12 +108,12 @@ sudo nano /etc/systemd/system/ethgas.service
 
 ```ini
 [Unit]
-Description=Ethereum Gas Checker
+Description=Ethereum Mainnet Gas Checker
 After=network.target
 
 [Service]
-WorkingDirectory=/home/user/ethereum-gas-checker
-ExecStart=/home/user/ethereum-gas-checker/venv/bin/python /home/user/ethereum-gas-checker/checker.py
+WorkingDirectory=/home/user/Ethereum-Mainnet-Gas-Checker
+ExecStart=/home/user/Ethereum-Mainnet-Gas-Checker/venv/bin/python /home/user/Ethereum-Mainnet-Gas-Checker/checker.py
 Restart=always
 RestartSec=10
 User=user
