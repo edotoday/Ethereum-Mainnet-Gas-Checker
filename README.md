@@ -1,4 +1,4 @@
-# Ethereum Mainnet Gas Checker + Telegram Alerts
+# Ethereum Mainnet Gas Checker + Telegram Alerts.
 
 Простой и быстрый чекер цены газа в **Ethereum Mainnet** с мгновенными уведомлениями в Telegram, когда газ падает ниже заданного порога.
 
